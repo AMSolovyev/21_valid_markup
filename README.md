@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-The estate agency site is [here] [https://AMSolovyev.github.io/21_valid_markup]
+The estate agency site is [here](https://AMSolovyev.github.io/21_valid_markup)
 
 # Project Goals
 
